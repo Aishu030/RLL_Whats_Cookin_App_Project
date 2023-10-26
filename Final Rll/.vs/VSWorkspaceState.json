@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RLL-2-master",
+    "\\RLL-2-master\\RLL-2-master",
+    "\\RLL-2-master\\RLL-2-master\\RLL-UpdatedAllModules",
+    "\\RLL-2-master\\RLL-2-master\\RLL-UpdatedAllModules\\CookingAppAPI",
+    "\\RLL-2-master\\RLL-2-master\\RLL-UpdatedAllModules\\CookingAppAPI\\CookingAppMVC",
+    "\\RLL-2-master\\RLL-2-master\\RLL-UpdatedAllModules\\CookingAppAPI\\CookingAppMVCTesting",
+    "\\RLL-2-master\\RLL-2-master\\RLL-UpdatedAllModules\\CookingAppAPI\\CookingAppMVC\\Controllers",
+    "\\RLL-2-master\\RLL-2-master\\RLL-UpdatedAllModules\\CookingAppAPI\\CookingAppMVC\\wwwroot",
+    "\\RLL-2-master\\RLL-2-master\\RLL-UpdatedAllModules\\CookingAppAPI\\CookingAppMVC\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\RLL-2-master\\RLL-2-master\\RLL-UpdatedAllModules\\CookingAppAPI\\CookingAppMVCTesting\\UnitTest1.cs",
+  "PreviewInSolutionExplorer": false
+}
